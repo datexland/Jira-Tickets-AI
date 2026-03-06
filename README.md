@@ -30,7 +30,7 @@ This skill plugs directly into your AI coding agent and transforms it into an as
 
 **1. Clone the repo**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/datexland/Jira-Tickets-AI.git
 cd Jira-Tickets-AI
 ```
 
@@ -65,7 +65,7 @@ The agent will guide you through:
 
 Watch the full workflow in action — from a single prompt to a complete, production-ready Jira ticket:
 
-https://github.com/user-attachments/assets/demo_video/jira_demo.mp4
+<video src="https://github.com/datexland/Jira-Tickets-AI/raw/main/demo_video/jira_demo.mp4" controls width="100%"></video>
 
 ---
 
