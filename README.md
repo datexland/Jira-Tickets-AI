@@ -40,7 +40,9 @@ Launch **Cursor**, **Antigravity**, or **Claude Code** — whichever your team u
 
 **3. Choose your LLM**
 
-We recommend **Gemini Flash** for fast, intelligent drafting during demos and daily use.
+We strongly recommend using **Google AI models (Gemini Flash / Gemini Pro)** for all interactions with this skill.
+
+> **Security Notice:** Google AI models are covered under our organization's Google Workspace confidentiality agreement. This ensures that any sensitive information discussed during the ticket creation process — including client names, project details, and internal architecture — remains within our data privacy boundaries and is **never used to train external models**. Avoid using third-party LLMs (e.g., OpenAI, Anthropic) when handling client-sensitive information.
 
 **4. Open the Agent tab and type:**
 
