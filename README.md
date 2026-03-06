@@ -65,7 +65,7 @@ The agent will guide you through:
 
 Watch the full workflow in action — from a single prompt to a complete, production-ready Jira ticket:
 
-<video src="https://github.com/datexland/Jira-Tickets-AI/raw/main/demo_video/jira_demo.mp4" controls width="100%"></video>
+![Jira Ticket Creator Demo](demo_video/jira_demo.gif)
 
 ---
 
